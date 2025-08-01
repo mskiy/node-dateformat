@@ -52,6 +52,7 @@ ehthumbs.db
 Desktop.ini
 npm-debug.log
 .directory
+.idea
 ._*
 
 koa-better-body

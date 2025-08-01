@@ -2,5 +2,6 @@ test
 .travis.yml
 benchmark
 CONTRIBUTING.md
+.idea
 .gitignore
 babel.config.json
