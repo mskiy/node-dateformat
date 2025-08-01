@@ -23,7 +23,7 @@
     ".": {
       "import": ".src/dateformat.js",
       "require": ".src/dateformat.js",
-      "types": ".src/dateformat.d.ts",
+      "types": ".src/dateformat.d.ts"
     }
   },
   "devDependencies": {
