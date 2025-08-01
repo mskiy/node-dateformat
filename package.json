@@ -19,7 +19,7 @@
   "type": "module",
   "types": "src/dateformat.d.ts",
   "main": "src/dateformat.js",
-  "exports: {
+  "exports": {
     ".": {
       "import": ".src/dateformat.js",
       "require": ".src/dateformat.js",
