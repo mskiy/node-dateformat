@@ -18,7 +18,7 @@ const timezone = /\b(?:[A-Z]{1,3}[A-Z][TC])(?:[-+]\d{4})?|((?:Australian )?(?:Pa
 const timezoneClip = /[^-+\dA-Z]/g;
 
 /**
- * @param {string | number | Date} date
+ * @param {string | number | Date | undefined} date
  * @param {string} mask
  * @param {boolean} utc
  * @param {boolean} gmt
