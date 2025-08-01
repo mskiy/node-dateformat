@@ -22,7 +22,7 @@
   "exports": {
     ".": {
       "import": "./src/dateformat.js",
-      "require": "./src/dateformat.js",
+      "require": "./src/dateformat.cjs",
       "types": "./src/dateformat.d.ts"
     }
   },
