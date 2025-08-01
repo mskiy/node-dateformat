@@ -21,9 +21,9 @@
   "main": "src/dateformat.js",
   "exports": {
     ".": {
-      "import": ".src/dateformat.js",
-      "require": ".src/dateformat.js",
-      "types": ".src/dateformat.d.ts"
+      "import": "./src/dateformat.js",
+      "require": "./src/dateformat.js",
+      "types": "./src/dateformat.d.ts"
     }
   },
   "devDependencies": {
