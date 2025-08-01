@@ -1,3 +1,16 @@
+# This project is forked from  
+https://github.com/felixge/node-dateformat
+
+This fork was created to modernize and maintain the `dateFormat` utility with the following goals:
+
+- Provide ES Module and CommonJS builds side-by-side
+- Publish proper TypeScript typings
+- Fix long-standing bugs and align behavior with modern JS expectations
+- Maintain compatibility with Node.js and popular bundlers (e.g., Vite, Webpack)
+- Keep the package up-to-date and published under a new name: `dateformat-universal`
+
+The original project by [@felixge](https://github.com/felixge) appears to be unmaintained.
+
 # dateformat
 
 A node.js package for Steven Levithan's excellent [dateFormat()][dateformat] function.
