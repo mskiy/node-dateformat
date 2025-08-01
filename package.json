@@ -17,7 +17,15 @@
   "version": "5.0.3",
   "license": "MIT",
   "type": "module",
-  "main": "lib/dateformat.js",
+  "types": "src/dateformat.d.ts",
+  "main": "src/dateformat.js",
+  "exports: {
+    ".": {
+      "import": ".src/dateformat.js",
+      "require": ".src/dateformat.js",
+      "types": ".src/dateformat.d.ts",
+    }
+  },
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.15.0",
