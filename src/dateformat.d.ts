@@ -1,5 +1,5 @@
 declare function dateFormat(
-  date: string | number | Date,
+  date: string | number | Date | undefined,
   mask?: string,
   utc?: boolean,
   gmt?: boolean
