@@ -4,7 +4,6 @@ https://github.com/felixge/node-dateformat
 This fork was created to modernize and maintain the `dateFormat` utility with the following goals:
 
 - Provide ES Module and CommonJS builds side-by-side
-- Fix long-standing bugs and align behavior with modern JS expectations
 - Maintain compatibility with Node.js and popular bundlers (e.g., Vite, Webpack)
 - Keep the package up-to-date and published under a new name: `dateformat-universal`
 
